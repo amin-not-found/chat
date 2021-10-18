@@ -1,0 +1,4 @@
+./server/ent.db
+./server/Procfile
+./server/pkg
+./mobile_client/build
